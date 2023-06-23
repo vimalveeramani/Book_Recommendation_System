@@ -138,7 +138,5 @@ most of the elements are zero. We convert our table to a 2D matrix, and fill the
 - [Cosine Similarity](https://en.wikipedia.org/wiki/Cosine_similarity)
 - [Recommendation System](https://en.wikipedia.org/wiki/Recommender_system)
 
-## Contributors
 
-- [Aditya Raj](https://www.linkedin.com/in/gnsaddy/)
 
