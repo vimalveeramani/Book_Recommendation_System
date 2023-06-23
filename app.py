@@ -7,7 +7,7 @@ from sklearn.neighbors import NearestNeighbors
 
 app = Flask(__name__)
 
-
+ 
 @app.route('/')
 def home():
     return render_template('home.html')
